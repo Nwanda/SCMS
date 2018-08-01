@@ -1,2 +1,2 @@
 # SCMS
-This is a school content management system in php
+This is a school content management system in php. first project
